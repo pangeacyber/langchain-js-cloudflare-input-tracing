@@ -1,0 +1,27 @@
+{
+  "name": "@pangeacuber/langchain-js-cloudflare-input-tracing",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev",
+    "format": "biome format",
+    "lint": "biome lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@langchain/cloudflare": "0.1.0",
+    "@langchain/core": "0.3.25",
+    "langchain": "0.3.7",
+    "pangea-node-sdk": "4.2.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "typescript": "5.7.2",
+    "ultracite": "4.1.14",
+    "wrangler": "3.98.0"
+  }
+}
