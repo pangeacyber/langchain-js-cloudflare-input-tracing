@@ -16,7 +16,7 @@
     "@langchain/cloudflare": "0.1.0",
     "@langchain/core": "0.3.30",
     "langchain": "0.3.11",
-    "pangea-node-sdk": "4.2.0"
+    "pangea-node-sdk": "4.3.0"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
