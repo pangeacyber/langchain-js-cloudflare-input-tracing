@@ -31,7 +31,7 @@ export class PangeaAuditCallbackHandler extends BaseTracer {
   }
 
   override async onLLMStart(run: Run): Promise<void> {
-    if (!run.inputs || !run.inputs.prompts) {
+    if (!run.inputs?.prompts) {
       return;
     }
 

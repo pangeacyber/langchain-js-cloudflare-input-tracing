@@ -1,8 +1,6 @@
 interface Env {
-  // biome-ignore lint/correctness/noUndeclaredVariables: global
   AI: Ai;
 
-  // biome-ignore lint/correctness/noUndeclaredVariables: global
   VECTORIZE: VectorizeIndex;
 
   CLOUDFLARE_ACCOUNT_ID: string;

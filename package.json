@@ -19,10 +19,10 @@
     "pangea-node-sdk": "5.1.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "2.0.6",
     "@cloudflare/workers-types": "4.20250628.0",
     "typescript": "5.8.3",
-    "ultracite": "4.2.13",
+    "ultracite": "5.0.26",
     "wrangler": "4.22.0"
   }
 }
