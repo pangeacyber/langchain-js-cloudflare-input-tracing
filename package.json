@@ -22,7 +22,7 @@
     "@biomejs/biome": "2.0.6",
     "@cloudflare/workers-types": "4.20250628.0",
     "typescript": "5.8.3",
-    "ultracite": "5.0.26",
+    "ultracite": "5.0.32",
     "wrangler": "4.22.0"
   }
 }
