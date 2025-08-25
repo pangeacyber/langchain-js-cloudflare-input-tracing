@@ -19,7 +19,7 @@
     "pangea-node-sdk": "5.2.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.1.4",
+    "@biomejs/biome": "2.2.0",
     "@cloudflare/workers-types": "4.20250822.0",
     "typescript": "5.9.2",
     "ultracite": "5.1.2",
